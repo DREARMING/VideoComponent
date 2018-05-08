@@ -3,6 +3,7 @@ apply plugin: 'com.github.dcendents.android-maven'
 
 group='com.github.DREARMING'
 
+
 ext {
     //类库的module名、bintray上项目名、artifactId最好是一致的
     jjdxm_bintrayRepo = 'maven'
